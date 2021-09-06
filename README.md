@@ -95,7 +95,7 @@ Delete what's inside [\_includes/feed.html](_includes/feed.html) and replace it 
 
 On command-line, you can run `bundle exec jekyll serve` then go to `localhost:4000` to check the result.
 
-## What's coming?
+## What's coming???
 
 - [Open-transclude](https://subpixel.space/entries/open-transclude/) integration in the template, if possible.
 - Different themes! - Please tell me which you'd like to have!
